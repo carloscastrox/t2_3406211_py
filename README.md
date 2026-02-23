@@ -39,7 +39,27 @@ Desarrollar un sistema que convierta una calificación numérica (0-100) a su eq
 Crear un simulador de descuentos que solicite al usuario su categoría (A, B, C) y el monto de compra. Aplicar los siguientes descuentos según categoría: A=20%, B=15%, C=10%. Para cualquier otra categoría no aplicar descuento. Mostrar el monto final a pagar y la cantidad ahorrada.
 
 ---
+## SECCIÓN 3: USO DE CICLOS FOR Y WHILE
+Procesamiento repetitivo de datos y recorrido de listas
 
+### 👨‍💻 Ejercicio 3.1 – Generador de números pares: 
+Crear un programa que solicite al usuario un número entero positivo N y muestre todos los números pares desde 1 hasta N utilizando un ciclo for.
+
+### 👨‍💻 Ejercicio 3.2 – Acumulador numérico: 
+Implementar un algoritmo que permita al usuario ingresar números de manera continua. El programa debe sumar todos los números ingresados hasta que el usuario ingrese el valor 0, momento en el cual mostrará la suma total acumulada.
+
+### 👨‍💻  Ejercicio 3.3 – Búsqueda en lista de nombres: 
+Dada una lista predefinida de nombres, crear un programa que permita al usuario buscar un nombre específico. El algoritmo debe recorrer la lista e indicar si el nombre se encuentra o no en ella, mostrando su posición en caso afirmativo.
+
+### 👨‍💻 Ejercicio 3.4 – Generador de tablas de multiplicar interactivo: 
+Desarrollar un programa que solicite al usuario un número y genere su tabla de multiplicar del 1 al 10. Luego, debe preguntar si desea generar otra tabla, continuando este proceso hasta que el usuario decida salir.
+
+### 👨‍💻 Ejercicio 3.5 – Eliminador de duplicados en lista: 
+Crear un algoritmo que permita al usuario ingresar 10 números (que pueden repetirse) y luego muestre una lista sin elementos duplicados. Implementar la lógica de eliminación de duplicados usando ciclos y una lista auxiliar, sin utilizar funciones de conjuntos.
+
+
+
+---
 ## ©️ Autor
 **Carlos Andrés Castro Jaramillo**
 Instructor – Desarrollo de Software
