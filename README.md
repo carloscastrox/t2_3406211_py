@@ -76,6 +76,24 @@ Desarrollar un programa que solicite al usuario ingresar una lista de números s
 ### 👨‍💻 Ejercicio 4.5 – Comparador avanzado de listas: 
 Implementar un programa que permita al usuario ingresar dos listas de elementos. El algoritmo debe mostrar: los elementos comunes a ambas listas, los elementos únicos de la primera lista y los elementos únicos de la segunda lista, implementando esta lógica con ciclos sin usar funciones de conjuntos.
 
+---
+## SECCIÓN 5: CREACIÓN Y USO DE FUNCIONES
+Modularización de tareas y reutilización de código
+
+### 👨‍💻 Ejercicio 5.1 – Generador de saludos personalizados: 
+Crear una función llamada saludar que reciba dos parámetros: nombre y hora del día. La función debe retornar un saludo apropiado según la hora: "Buenos días [nombre]" (5-12), "Buenas tardes [nombre]" (13-19), "Buenas noches [nombre]" (20-4).
+
+### 👨‍💻 Ejercicio 5.2 – Calculadora de promedios: 
+Implementar una función llamada calcular_promedio que reciba una lista de números como parámetro y retorne el promedio de esos números. Incluir validación para listas vacías.
+
+### 👨‍💻 Ejercicio 5.3 – Refactorización de menú de calculadora: 
+Tomar el menú de calculadora desarrollado en ejercicios anteriores y refactorizarlo, convirtiendo cada operación matemática en una función separada. El menú principal debe llamar a estas funciones según la opción seleccionada.
+
+### 👨‍💻 Ejercicio 5.4 – Detector de palíndromos: 
+Crear una función llamada es_palindromo que reciba un texto como parámetro y retorne True si es un palíndromo (se lee igual al derecho y al revés) o False en caso contrario. La función debe ignorar espacios, mayúsculas/minúsculas y signos de puntuación.
+
+### 👨‍💻 Ejercicio 5.5 – Calculadora factorial recursiva: 
+Implementar una función llamada factorial que calcule el factorial de un número usando recursión. La función debe recibir un número entero positivo y retornar su factorial. Incluir validación para números negativos.
 
 
 
