@@ -101,7 +101,7 @@ Implementar una función llamada factorial que calcule el factorial de un númer
 Descripción del sistema:
 Desarrollar un programa completo en Python para gestionar los libros de una biblioteca, aplicando todos los conceptos aprendidos en las secciones anteriores. El sistema debe permitir realizar operaciones básicas de mantenimiento de un catálogo bibliográfico.
 
-# Requisitos funcionales:
+## Requisitos funcionales:
 1.	Estructura de datos: Utilizar una lista de diccionarios para almacenar la información de los libros. Cada libro debe contener: id (numérico autoincremental), título, autor, año de publicación y estado de disponibilidad (True/False).
 2.	Funciones principales:
   o	agregar_libro(): Permite registrar un nuevo libro validando que el año sea numérico y mayor a 1900.
@@ -115,7 +115,7 @@ Desarrollar un programa completo en Python para gestionar los libros de una bibl
   o	libros_por_autor(autor): Lista todos los libros de un autor específico.
   o	estadisticas(): Muestra estadísticas del sistema: cantidad total de libros, libros disponibles y libros prestados.
   o	exportar_a_txt(): Guarda todos los libros en un archivo de texto llamado "biblioteca.txt".
-# Entregables esperados:
+## Entregables esperados:
 •	Archivo Python ejecutable con el nombre biblioteca.py
 •	Código completo con comentarios explicativos en cada función
 
