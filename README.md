@@ -179,7 +179,7 @@ Función recursiva `factorial(n)` con validación para números negativos. ci
 
 
 ### ✅ SECCIÓN 6: MINI-TALLER INTEGRADOR
-**👨‍💻 Sistema de gestión de biblioteca**
+**Sistema de gestión de biblioteca**
 Descripción del sistema:
 Desarrollar un programa completo en Python para gestionar los libros de una biblioteca, aplicando todos los conceptos aprendidos en las secciones anteriores. El sistema debe permitir realizar operaciones básicas de mantenimiento de un catálogo bibliográfico.
 
