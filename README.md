@@ -121,8 +121,7 @@ Desarrollar un programa completo en Python para gestionar los libros de una bibl
 
 ## Encarpetado o Estructura de archivos
 
-# taller2_Estructuras de control y Funciones/
-
+taller2_Estructuras de control y Funciones/
 ├─ README.md                    # Se puede realizar con alguna IA
 ├─ requirements.txt             # Enunciados de los ejercicios
 ├─ taller/                      # Paquete principal (código fuente)
