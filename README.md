@@ -119,6 +119,45 @@ Desarrollar un programa completo en Python para gestionar los libros de una bibl
 *	Archivo Python ejecutable con el nombre biblioteca.py.
 * Código completo con comentarios explicativos en cada función.
 
+## Encarpetado o Estructura de archivos
+
+# taller2_Estructuras de control y Funciones/
+
+├─ README.md                    # Se puede realizar con alguna IA
+├─ requirements.txt             # Enunciados de los ejercicios
+├─ taller/                      # Paquete principal (código fuente)
+│  ├─ seccion1/                 # MANEJO DE VARIABLES Y ENTRADA DE DATOS
+│  │  ├─ algoritmo_01.py
+│  │  ├─ algoritmo_02.py
+│  │  ├─ algoritmo_03.py
+│  │  ├─ algoritmo_04.py
+│  │  └─ algoritmo_05.py
+│  ├─ seccion2/                 # IMPLEMENTACIÓN DE CONDICIONALES
+│  │  ├─ algoritmo_06.py
+│  │  ├─ algoritmo_07.py
+│  │  ├─ algoritmo_08.py
+│  │  ├─ algoritmo_09.py
+│  │  └─ algoritmo_10.py
+│  ├─ seccion3/                 # USO DE CICLOS FOR Y WHILE
+│  │  ├─ algoritmo_11.py
+│  │  ├─ algoritmo_12.py
+│  │  ├─ algoritmo_13.py
+│  │  ├─ algoritmo_14.py
+│  │  └─ algoritmo_15.py
+│  ├─ seccion4/                 # GESTIÓN DE LISTAS Y DICCIONARIOS
+│  │  ├─ algoritmo_4.1.py
+│  │  ├─ algoritmo_4.2.py
+│  │  ├─ algoritmo_4.3.py
+│  │  ├─ algoritmo_4.4.py
+│  │  └─ algoritmo_4.5.py
+│  └─ seccion5/                 # CREACIÓN Y USO DE FUNCIONES
+│     ├─ algoritmo_5.1.py
+│     ├─ algoritmo_5.2.py
+│     ├─ algoritmo_5.3.py
+│     ├─ algoritmo_5.4.py
+│     └─ algoritmo_5.5.py
+└─ seccion6/                    # MINI-TALLER INTEGRADOR
+   └─ biblioteca.py
 
 ---
 ## ©️ Autor
